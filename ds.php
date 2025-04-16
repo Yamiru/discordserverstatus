@@ -10,7 +10,7 @@
  *  @package       discordserverstatus
  *  @author        Yamiru <yamiru@yamiru.com>
  *  @copyright     Copyright (c) 2025, Yamiru.com
- *  @license       GPL2
+ *  @license       MIT
  *  @link          https://yamiru.com
  *  @repository    https://github.com/Yamiru/discordserverstatus
  *  
